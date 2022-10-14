@@ -18,6 +18,7 @@
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35" style="max-width: 100%;"> </a> 
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="35" height="35" style="max-width: 100%;"> </a>
 <a href="https://redux.js.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="reduxJs" width="45" height="35" style="max-width: 100%;"> </a> 
+<a href="https://nextjs.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextJs" width="35" height="35" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" style="max-width: 100%;"> </a> 
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" style="max-width: 100%;"> </a> 
 <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindCss" width="35" height="35" style="max-width: 100%;"> </a> 
