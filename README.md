@@ -7,6 +7,8 @@
 
 🔭 I am currently working on **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **React.js** and **Next.js**. 
 
+🌱 I’m currently learning **React Native**
+
 👯 I’m looking to collaborate with other front-end developers 
 
 ⚡ Fun fact:I love swimming. 🏊‍♂️ 
