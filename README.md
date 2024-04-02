@@ -27,7 +27,7 @@
 <a target="_blank" href="https://sass-lang.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="sass" width="35" height="35" style="max-width: 100%;"> </a>
 <a target="_blank" href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35" style="max-width: 100%;"> </a>
 <a target="_blank" href="https://www.radix-ui.com/" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="radixUi" width="35" height="35" style="max-width: 100%;"> </a>
-<a target="_blank" href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="35" height="35" data-canonical-src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" style="max-width: 100%;"> </a>
+<a target="_blank" href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="35" height="35" data-canonical-src="https://github.com/saitgungor/saitgungor/blob/main/git-icon.png" style="max-width: 100%;"> </a>
 
 
 ### 📩 Connect with me:
